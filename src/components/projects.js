@@ -9,7 +9,7 @@ const Projects = () => {
       image: "images/ecom_app.png",
       description:
         "A Flutter-based eCommerce app with cart, JWT auth, and Nodejs and MongoDb. Admin panel in Flutter Web + Node.js [In Progress]",
-      link: "#",
+      link: "https://github.com/iZainIqbal",
       tech: ["Flutter", "Node.js", "MongoDB"],
     },
     {

@@ -45,8 +45,9 @@ const Services = () => {
                 {service.description}
               </p>
               <a
-                href="#"
+                href="#projects"
                 className="text-blue-400 hover:text-blue-300 font-medium inline-flex items-center space-x-2 transition-colors"
+                aria-label={`Learn more about ${service.title}`}
               >
                 <span>Learn more</span>
                 <ChevronRight className="w-4 h-4" />

@@ -1,70 +1,100 @@
-# Getting Started with Create React App
+# Zain Iqbal - Portfolio Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A modern, responsive portfolio website showcasing my work as a Flutter Developer, Full-Stack Engineer, and Unity Game Developer.
 
-## Available Scripts
+## 🚀 Live Demo
 
-In the project directory, you can run:
+Visit the live portfolio: [https://izainiqbal.github.io/my-portfolio](https://izainiqbal.github.io/my-portfolio)
 
-### `npm start`
+## ✨ Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Responsive Design**: Fully responsive layout that works seamlessly on desktop, tablet, and mobile devices
+- **Modern UI/UX**: Clean, professional design with smooth animations and transitions
+- **Smooth Scrolling**: Enhanced navigation with smooth scroll behavior
+- **Mobile Navigation**: Hamburger menu for mobile devices
+- **Contact Form**: Integrated EmailJS contact form with validation and status feedback
+- **Project Showcase**: Interactive project cards with links to live demos and repositories
+- **Certifications**: Display of professional certifications with verification links
+- **Accessibility**: Built with accessibility in mind (ARIA labels, keyboard navigation, skip links)
+- **SEO Optimized**: Comprehensive meta tags, Open Graph, and Twitter Card support
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🛠️ Tech Stack
 
-### `npm test`
+- **Frontend Framework**: React 18.2.0
+- **Styling**: Tailwind CSS 3.4.1
+- **Icons**: Lucide React
+- **Email Service**: EmailJS
+- **Build Tool**: Create React App
+- **Deployment**: GitHub Pages
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 📦 Installation
 
-### `npm run build`
+1. Clone the repository:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```bash
+git clone https://github.com/iZainIqbal/my-portfolio.git
+cd my-portfolio
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+2. Install dependencies:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```bash
+npm install
+```
 
-### `npm run eject`
+3. Set up environment variables:
+   Create a `.env` file in the root directory and add your EmailJS credentials:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+```env
+REACT_APP_EMAILJS_SERVICE_ID=your_service_id
+REACT_APP_EMAILJS_TEMPLATE_ID=your_template_id
+REACT_APP_EMAILJS_PUBLIC_KEY=your_public_key
+```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+4. Start the development server:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```bash
+npm start
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+The app will open at [http://localhost:3000](http://localhost:3000)
 
-## Learn More
+## 🚀 Deployment
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+The portfolio is deployed using GitHub Pages. To deploy:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```bash
+npm run build
+npm run deploy
+```
 
-### Code Splitting
+## 📱 Sections
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- **Home**: Hero section with animated typing effect
+- **About**: Skills, experience, and education
+- **Services**: Services offered
+- **Projects**: Portfolio of projects with descriptions and links
+- **Certificates**: Professional certifications
+- **Contact**: Contact form and social media links
 
-### Analyzing the Bundle Size
+## 🎨 Customization
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- Update personal information in component files
+- Replace images in `/public/images/`
+- Modify colors and styling in Tailwind config
+- Update project data in `src/components/projects.js`
+- Customize certificates in `src/components/certificates.js`
 
-### Making a Progressive Web App
+## 📄 License
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+This project is open source and available under the [MIT License](LICENSE).
 
-### Advanced Configuration
+## 📧 Contact
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+- **Email**: appdev.zain@gmail.com
+- **LinkedIn**: [zain-iqbal-devs](https://www.linkedin.com/in/zain-iqbal-devs/)
+- **GitHub**: [iZainIqbal](https://github.com/iZainIqbal)
 
-### Deployment
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Made with ❤️ and lots of coffee ☕
