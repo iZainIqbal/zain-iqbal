@@ -45,7 +45,7 @@ const About = () => {
   };
 
   return (
-    <section id="about" className="py-20 bg-gray-800">
+    <section id="about" className="py-20 bg-white">
       <div className="max-w-7xl mx-auto px-6">
         <div className="text-center mb-16">
           <h2 className="text-4xl font-bold text-white mb-4">Why Work With Me</h2>
@@ -102,7 +102,7 @@ const About = () => {
               <p className="text-gray-400 leading-relaxed mb-4">
                 My experience includes developing <span className="text-purple-400">AI-powered fitness apps</span> with Dialogflow integration, <span className="text-purple-400">ride-booking platforms</span> with real-time GPS tracking serving 1,000+ test rides, <span className="text-purple-400">digital blood donation networks</span> connecting donors with patients, and <span className="text-purple-400">e-commerce solutions</span> with Stripe payment processing.
               </p>
-              <p className="text-gray-400 leading-relaxed">
+              <p className="text-gray-600 leading-relaxed">
                 I focus on <span className="text-blue-400 font-semibold">full-stack architecture, RESTful API design, database management</span>, and delivering MVPs in 4-8 weeks. No bloat, no endless meetings—just solid applications with production-ready code, comprehensive documentation, and real features that users love.
               </p>
             </div>
