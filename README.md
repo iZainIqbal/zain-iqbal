@@ -4,11 +4,11 @@
 
 ### Full-Stack Developer | Flutter & React Native Specialist | MVP Architect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-izainiqbal.github.io-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://izainiqbal.github.io/my-portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-izainiqbal.github.io-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://izainiqbal.github.io/izainiqbal)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zain-iqbal-devs/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:appdev.zain@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iZainIqbal)
-[![Resume](https://img.shields.io/badge/Resume-Download-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/iZainIqbal/my-portfolio/raw/main/Resume_Zain_Iqbal.pdf)
+[![Resume](https://img.shields.io/badge/Resume-Download-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/iZainIqbal/izainiqbal/raw/main/Resume_Zain_Iqbal.pdf)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&random=false&width=650&lines=Full-Stack+Developer;Flutter+%26+React+Native+Expert;Mobile+%26+Web+Applications;Startup+MVP+Specialist;Production-Ready+Solutions" alt="Typing SVG" />
 
@@ -330,17 +330,17 @@ I'm always open to discussing **innovative projects**, **freelance opportunities
 
 ### 💼 Open to Opportunities
 
-[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-667EEA?style=for-the-badge)](https://izainiqbal.github.io/my-portfolio)
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-667EEA?style=for-the-badge)](https://izainiqbal.github.io/izainiqbal)
 [![Email Me](https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge)](mailto:appdev.zain@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/💼_Connect_on_LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/zain-iqbal-devs/)
 [![GitHub](https://img.shields.io/badge/📂_View_My_Work-181717?style=for-the-badge)](https://github.com/iZainIqbal)
-[![Download Resume](https://img.shields.io/badge/📄_Download_Resume-red?style=for-the-badge)](https://github.com/iZainIqbal/my-portfolio/raw/main/Resume_Zain_Iqbal.pdf)
+[![Download Resume](https://img.shields.io/badge/📄_Download_Resume-red?style=for-the-badge)](https://github.com/iZainIqbal/izainiqbal/raw/main/Resume_Zain_Iqbal.pdf)
 
 </div>
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
 <div align="center">
 
