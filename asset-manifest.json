@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/zain-iqbal/static/css/main.6d15ce3f.css",
-    "main.js": "/zain-iqbal/static/js/main.4d9cc144.js",
-    "static/js/453.a98bb713.chunk.js": "/zain-iqbal/static/js/453.a98bb713.chunk.js",
-    "index.html": "/zain-iqbal/index.html",
-    "main.6d15ce3f.css.map": "/zain-iqbal/static/css/main.6d15ce3f.css.map",
-    "main.4d9cc144.js.map": "/zain-iqbal/static/js/main.4d9cc144.js.map",
-    "453.a98bb713.chunk.js.map": "/zain-iqbal/static/js/453.a98bb713.chunk.js.map"
+    "main.css": "/izainiqbal/static/css/main.aeffc2e3.css",
+    "main.js": "/izainiqbal/static/js/main.0cc2995e.js",
+    "static/js/453.09256e00.chunk.js": "/izainiqbal/static/js/453.09256e00.chunk.js",
+    "index.html": "/izainiqbal/index.html",
+    "main.aeffc2e3.css.map": "/izainiqbal/static/css/main.aeffc2e3.css.map",
+    "main.0cc2995e.js.map": "/izainiqbal/static/js/main.0cc2995e.js.map",
+    "453.09256e00.chunk.js.map": "/izainiqbal/static/js/453.09256e00.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6d15ce3f.css",
-    "static/js/main.4d9cc144.js"
+    "static/css/main.aeffc2e3.css",
+    "static/js/main.0cc2995e.js"
   ]
 }
